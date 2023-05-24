@@ -11,6 +11,8 @@ This application scans for open TCP or UDP ports on a given IP address and port 
 5. The progress bar will show the progress of the scan   
 6. Open ports will be printed in the results window  
 
+![Capture](https://github.com/solariscodes/portscan/blob/main/Capture.PNG)
+
 ## Technology    
 
 This application is built with:       
